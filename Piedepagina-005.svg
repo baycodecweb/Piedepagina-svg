@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200mm"
+   height="56mm"
+   viewBox="0 0 200 56"
+   version="1.1"
+   id="svg841"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="Piedepagina-007.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview843"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.9779744"
+     inkscape:cx="384.73703"
+     inkscape:cy="147.37299"
+     inkscape:window-width="2512"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs838">
+    <linearGradient
+       id="g11"
+       x2="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-168.81369,732.86716,-1847.4905,-328.99653,1197.645,-49.045812)">
+      <stop
+         offset="0"
+         stop-color="#ffffff"
+         id="stop58" />
+      <stop
+         offset="1"
+         stop-color="#d5d5d5"
+         id="stop60" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp3">
+      <path
+         d="M 541.5,523.86 H 34.5 V 385.12 h 507 z"
+         id="path63" />
+    </clipPath>
+    <linearGradient
+       id="g12"
+       x2="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(319.414,10.18,-2.963,92.987,-65.289,483.375)">
+      <stop
+         offset="0"
+         stop-color="#ffffff"
+         id="stop66" />
+      <stop
+         offset="1"
+         stop-color="#325267"
+         id="stop68" />
+    </linearGradient>
+    <linearGradient
+       id="g13"
+       x2="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(297.207,91.037,-48.741,159.124,-43.887,402.428)">
+      <stop
+         offset="0"
+         stop-color="#000000"
+         id="stop71" />
+      <stop
+         offset="1"
+         stop-color="#696a6b"
+         id="stop73" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g761"
+       transform="matrix(0.23507756,0,0,0.35532015,1.2596362,-157.35306)">
+      <polygon
+         style="opacity:0.5;fill:#a4a3a3"
+         points="850.394,539 -8.504,565.343 -8.504,571.088 -8.504,598.874 240.23,598.874 850.394,598.874 850.394,572.867 "
+         id="polygon267" />
+      <g
+         id="g295">
+        <polygon
+           style="fill:#005d75"
+           points="850.394,543 -8.504,569.343 -8.504,602.874 850.394,576.867 "
+           id="polygon289" />
+        <polygon
+           style="fill:#1a3a5a"
+           points="850.394,602.874 -8.504,602.874 -8.504,575.088 850.394,554.418 "
+           id="polygon291" />
+        <polygon
+           style="fill:#ffffff"
+           points="850.394,602.874 850.394,580.039 240.23,602.874 "
+           id="polygon293" />
+      </g>
+      <polygon
+         style="opacity:0.5;fill:#a4a3a3"
+         points="-8.504,597.374 440.531,597.374 623.58,597.374 -8.504,521.725 -8.504,564.515 "
+         id="polygon297" />
+      <g
+         id="g305">
+        <polygon
+           style="fill:#ffffff"
+           points="623.58,602.874 -8.504,570.015 -8.504,527.225 "
+           id="polygon299" />
+        <polygon
+           style="fill:#005d75"
+           points="623.58,602.874 -8.504,541.651 -8.504,602.874 "
+           id="polygon301" />
+        <polygon
+           style="fill:#1a3a5a"
+           points="-8.504,602.874 -8.504,574.023 440.531,602.874 "
+           id="polygon303" />
+      </g>
+    </g>
+  </g>
+</svg>
